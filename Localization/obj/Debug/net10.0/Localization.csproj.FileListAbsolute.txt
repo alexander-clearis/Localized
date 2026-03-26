@@ -15,3 +15,4 @@ C:\Users\Alex\RiderProjects\Localized\Localization\obj\Debug\net10.0\Localizatio
 C:\Users\Alex\RiderProjects\Localized\Localization\obj\Debug\net10.0\refint\Localization.dll
 C:\Users\Alex\RiderProjects\Localized\Localization\obj\Debug\net10.0\Localization.pdb
 C:\Users\Alex\RiderProjects\Localized\Localization\obj\Debug\net10.0\ref\Localization.dll
+C:\Users\Alex\RiderProjects\Localized\Localization\obj\Debug\net10.0\Localization.sourcelink.json

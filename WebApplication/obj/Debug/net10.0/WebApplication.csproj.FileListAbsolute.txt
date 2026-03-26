@@ -33,3 +33,4 @@ C:\Users\Alex\RiderProjects\Localized\WebApplication\obj\Debug\net10.0\refint\We
 C:\Users\Alex\RiderProjects\Localized\WebApplication\obj\Debug\net10.0\WebApplication.pdb
 C:\Users\Alex\RiderProjects\Localized\WebApplication\obj\Debug\net10.0\WebApplication.genruntimeconfig.cache
 C:\Users\Alex\RiderProjects\Localized\WebApplication\obj\Debug\net10.0\ref\WebApplication.dll
+C:\Users\Alex\RiderProjects\Localized\WebApplication\obj\Debug\net10.0\WebApplication.sourcelink.json

@@ -19,3 +19,4 @@ C:\Users\Alex\RiderProjects\Localized\ConsoleProgram\obj\Debug\net10.0\refint\Co
 C:\Users\Alex\RiderProjects\Localized\ConsoleProgram\obj\Debug\net10.0\ConsoleProgram.pdb
 C:\Users\Alex\RiderProjects\Localized\ConsoleProgram\obj\Debug\net10.0\ConsoleProgram.genruntimeconfig.cache
 C:\Users\Alex\RiderProjects\Localized\ConsoleProgram\obj\Debug\net10.0\ref\ConsoleProgram.dll
+C:\Users\Alex\RiderProjects\Localized\ConsoleProgram\obj\Debug\net10.0\ConsoleProgram.sourcelink.json
