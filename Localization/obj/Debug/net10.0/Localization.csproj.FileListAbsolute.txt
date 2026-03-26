@@ -1,0 +1,17 @@
+C:\Users\Alex\RiderProjects\Localized\Localization\bin\Debug\net10.0\Localization.deps.json
+C:\Users\Alex\RiderProjects\Localized\Localization\bin\Debug\net10.0\Localization.dll
+C:\Users\Alex\RiderProjects\Localized\Localization\bin\Debug\net10.0\Localization.pdb
+C:\Users\Alex\RiderProjects\Localized\Localization\bin\Debug\net10.0\nl\Localization.resources.dll
+C:\Users\Alex\RiderProjects\Localized\Localization\obj\Debug\net10.0\LocalizationLib.Strings.resources
+C:\Users\Alex\RiderProjects\Localized\Localization\obj\Debug\net10.0\LocalizationLib.Strings.nl.resources
+C:\Users\Alex\RiderProjects\Localized\Localization\obj\Debug\net10.0\Localization.csproj.GenerateResource.cache
+C:\Users\Alex\RiderProjects\Localized\Localization\obj\Debug\net10.0\Localization.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Alex\RiderProjects\Localized\Localization\obj\Debug\net10.0\Localization.AssemblyInfoInputs.cache
+C:\Users\Alex\RiderProjects\Localized\Localization\obj\Debug\net10.0\Localization.AssemblyInfo.cs
+C:\Users\Alex\RiderProjects\Localized\Localization\obj\Debug\net10.0\Localization.csproj.CoreCompileInputs.cache
+C:\Users\Alex\RiderProjects\Localized\Localization\obj\Debug\net10.0\nl\Localization.resources.cs
+C:\Users\Alex\RiderProjects\Localized\Localization\obj\Debug\net10.0\nl\Localization.resources.dll
+C:\Users\Alex\RiderProjects\Localized\Localization\obj\Debug\net10.0\Localization.dll
+C:\Users\Alex\RiderProjects\Localized\Localization\obj\Debug\net10.0\refint\Localization.dll
+C:\Users\Alex\RiderProjects\Localized\Localization\obj\Debug\net10.0\Localization.pdb
+C:\Users\Alex\RiderProjects\Localized\Localization\obj\Debug\net10.0\ref\Localization.dll

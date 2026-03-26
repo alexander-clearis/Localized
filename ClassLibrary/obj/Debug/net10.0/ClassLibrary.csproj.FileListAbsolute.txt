@@ -1,0 +1,16 @@
+C:\Users\Alex\RiderProjects\Localized\ClassLibrary\bin\Debug\net10.0\ClassLibrary.deps.json
+C:\Users\Alex\RiderProjects\Localized\ClassLibrary\bin\Debug\net10.0\ClassLibrary.dll
+C:\Users\Alex\RiderProjects\Localized\ClassLibrary\bin\Debug\net10.0\ClassLibrary.pdb
+C:\Users\Alex\RiderProjects\Localized\ClassLibrary\obj\Debug\net10.0\ClassLibrary.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Alex\RiderProjects\Localized\ClassLibrary\obj\Debug\net10.0\ClassLibrary.AssemblyInfoInputs.cache
+C:\Users\Alex\RiderProjects\Localized\ClassLibrary\obj\Debug\net10.0\ClassLibrary.AssemblyInfo.cs
+C:\Users\Alex\RiderProjects\Localized\ClassLibrary\obj\Debug\net10.0\ClassLibrary.csproj.CoreCompileInputs.cache
+C:\Users\Alex\RiderProjects\Localized\ClassLibrary\obj\Debug\net10.0\ClassLibrary.dll
+C:\Users\Alex\RiderProjects\Localized\ClassLibrary\obj\Debug\net10.0\refint\ClassLibrary.dll
+C:\Users\Alex\RiderProjects\Localized\ClassLibrary\obj\Debug\net10.0\ClassLibrary.pdb
+C:\Users\Alex\RiderProjects\Localized\ClassLibrary\obj\Debug\net10.0\ref\ClassLibrary.dll
+C:\Users\Alex\RiderProjects\Localized\ClassLibrary\bin\Debug\net10.0\Localization.dll
+C:\Users\Alex\RiderProjects\Localized\ClassLibrary\bin\Debug\net10.0\Localization.pdb
+C:\Users\Alex\RiderProjects\Localized\ClassLibrary\bin\Debug\net10.0\nl\Localization.resources.dll
+C:\Users\Alex\RiderProjects\Localized\ClassLibrary\obj\Debug\net10.0\ClassLibrary.csproj.AssemblyReference.cache
+C:\Users\Alex\RiderProjects\Localized\ClassLibrary\obj\Debug\net10.0\ClassLib.939BCD28.Up2Date

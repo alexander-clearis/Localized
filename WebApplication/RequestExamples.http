@@ -1,0 +1,10 @@
+### GET request to /Car
+GET http://localhost:5274/Car
+
+###
+
+### GET request to /Car
+GET http://localhost:5274/Car
+X-Culture: nl-NL
+
+###
